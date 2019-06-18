@@ -1,13 +1,13 @@
 {
-  "expire": "2019, 6, 30",
+  "expire": "2019, 5, 25",
   "stepSwitch": {
     "step0" : true,
     "step1" : true,
-    "step2" : false,
+    "step2" : true,
     "step3" : true,
-    "step4" : false,
+    "step4" : true,
     "step5" : true,
-    "step6" : false,
+    "step6" : true,
     "step7" : true,
     "step8" : true
   }
