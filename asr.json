@@ -3,11 +3,11 @@
   "stepSwitch": {
     "step0" : true,
     "step1" : true,
-    "step2" : true,
+    "step2" : false,
     "step3" : true,
-    "step4" : true,
+    "step4" : false,
     "step5" : true,
-    "step6" : true,
+    "step6" : false,
     "step7" : true,
     "step8" : true
   }
